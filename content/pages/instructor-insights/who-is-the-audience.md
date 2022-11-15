@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Brandon Leshchinskiy describes the audience he and Prof.
+  Newman are hoping to reach through the Climate 101 presentation.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
